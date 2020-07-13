@@ -2,6 +2,15 @@
 
 A new Flutter project.
 
+## Screenshots
+
+* add new contacts, update contacts, call or mail contact<br><img src  = "screenshots/g1.gif" height=500><br>
+
+## 
+
+* delete contact<br><img src  = "screenshots/g2.gif" height=500><br>
+* add new contacts only if data is valid (validate email, phone number)<br><img src="screenshots/g3.gif" height = 500><br>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
