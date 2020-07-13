@@ -1,6 +1,6 @@
 # phone_book
 
-A new Flutter project.
+A phonebook made with flutter using [Hive](https://pub.dev/packages/hive#-readme-tab-) a Fast, Enjoyable & Secure NoSQL Database.
 
 ## Screenshots
 
